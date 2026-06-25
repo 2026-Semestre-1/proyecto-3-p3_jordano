@@ -9,6 +9,15 @@
 
 ---
 
+## Documentación
+
+| Documento | Contenido |
+|-----------|-----------|
+| `README.md` | Arquitectura, estructuras del FS, comandos, casos de prueba |
+| [`FLUJO.md`](FLUJO.md) | **Flujo interno completo:** qué clase llama a cuál, con qué argumentos, para cada uno de los 25 comandos |
+
+---
+
 ## Descripción General
 
 Sistema de archivos virtual tipo UNIX implementado completamente en Java. Todo el estado del sistema persiste en un único archivo binario (`miDiscoDuro.fs`). El diseño está explícitamente basado en:
