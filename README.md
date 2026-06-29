@@ -3,9 +3,9 @@
 # Sistema de Archivos Virtual (VFS) — Proyecto #3
 
 ## Integrantes
-### [Carné] [Nombre]
+### [Carné: 2018161994] [Nombre: Jordano Escalante]
 
-### Estado del proyecto: 1 (Completo)
+### Estado del proyecto: 90% (Faltó la capcidad de ver los archivos abiertos)
 
 ---
 
