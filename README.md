@@ -5,7 +5,7 @@
 ## Integrantes
 ### [Carné: 2018161994] [Nombre: Jordano Escalante]
 
-### Estado del proyecto: 90% (Faltó la capcidad de ver los archivos abiertos)
+### Estado del proyecto: 90% (Faltó la capcidad de ver los archivos abiertos y mover archivos de directorio)
 
 ---
 
